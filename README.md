@@ -1,6 +1,8 @@
 # HttpRequestsAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
+NPM version 6.14.13
+Node.js version 19.7.0 (yeah yeah ik its not LTS, i am just playing around)
 
 ## Development server
 
