@@ -1,0 +1,13 @@
+.dogs,
+.files {
+  display: flex;
+  padding: 10px;
+  height: 300px;
+
+  .all-dogs-container,
+  .all-dogs-three-times-container,
+  .download-container,
+  .upload-container {
+    width: 200px;
+  }
+}
